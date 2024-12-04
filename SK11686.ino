@@ -1,4 +1,4 @@
-
+//how
 #include <AccelStepper.h>
 #include <LiquidCrystal.h>
 #include <EEPROM.h>
