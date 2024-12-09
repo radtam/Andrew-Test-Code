@@ -1,4 +1,4 @@
-
+// This code is for pulling chain or cord in multipules strokes, a servo is used for grabing the chain, a break beam is at the top of the shade to make sure to stop stroking when the shade gets toward the top.
 #include <AccelStepper.h>
 #include <LiquidCrystal.h>
 #include <EEPROM.h>
